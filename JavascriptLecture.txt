@@ -7,3 +7,4 @@ IDE - Visual Studio -- have debugger -- quite good for the project.
 + there is difference between objects and arrays -- but they are similar.
 
 //scjhzjxchl
+//fdghgfhgf

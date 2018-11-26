@@ -1,0 +1,7 @@
+JAVASCRIPT
+
+IDE - Visual Studio -- have debugger -- quite good for the project.
+    - Notepad++     -- best to learn (nothing speacial).
+
++ prefer '===' over '=='
++ there is difference between objects and arrays -- but they are similar.

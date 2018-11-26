@@ -5,3 +5,5 @@ IDE - Visual Studio -- have debugger -- quite good for the project.
 
 + prefer '===' over '=='
 + there is difference between objects and arrays -- but they are similar.
+
+//scjhzjxchl
